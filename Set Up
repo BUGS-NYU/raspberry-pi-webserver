@@ -1,0 +1,21 @@
+A Raspberry Pi is a computer that has ports to plug into a computer monitor. It is capable of doing exactly what your normal laptop or desktop can do; it's just
+a lot cuter. 
+This is what you'll need:
+
+1. Raspberry Pi 3 (RPi3) Model B Quad-Core 1.2 GHz 1 GB RAM
+2. On-board WiFi and Bluetooth Connectivity
+3. 32 GB Micro SD Card 
+4. USB MicroSD Card Reader
+5. 2.5A USB Power Supply with Micro USB Cable and Noise Filter.
+6. HDMI Cable
+
+1. Formatting Micro SD Card.
+
+Inject the Micro SD Card into the card reader and then to your computer. The first step is to format your SD card. A SD card is a memory card and it contains rows of memory chips
+that store documents, images, music etc. Memory card formatting is essentially cleaning theSD card by removing any data that was previously on it. Formatting memory cards is important because
+it maintains the card's full speed performance, preserves its storage capacity and reduces the risk of storage errors. Formatting a card is actually different from just deleting and erasing content that is stored. When data is erased from the card,
+the actual data still on the card, but will be overwritten with new data. Formatting a memory card loses all of its data irreversibly. 
+
+Download SD Formatter 4.0  from this website : https://www.sdcard.org/downloads/formatter_4/index.html 
+
+Follow the instructions and format your card.
